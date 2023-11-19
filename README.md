@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Student Projects</b>
-  - [Web Portfolio](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Web Portfolio](https://portfolioaustint.github.io/)
 
 <h2> 🤳 Connect with me:</h2>
 
