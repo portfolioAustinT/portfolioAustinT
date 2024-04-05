@@ -9,10 +9,10 @@
   - [Configuring and Updating Microsoft Defender]
   - [Enabling and Configuring Microsoft Firewall]
 
-- <b>Smart Home Technology Integration Project</b>
+- <b>Smart Home Technology Integration Projects</b>
   - [Raspberry Pi Magic Mirror]
 
-- <b>Web Development Project</b>
+- <b>Web Development Projects</b>
   - [Personal Portfolio Website]
     
 <h2> 🤳 Connect with me:</h2>
