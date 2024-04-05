@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! Driven Cybersecurity Analyst </h1>
+<h1>Hi, I'm Austin! Driven Information Security Analyst </h1>
 
 <h2>👨‍💻 My Cybersecurity Portfolio:</h2>
 
