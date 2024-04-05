@@ -4,7 +4,17 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / HoneyNet in Azure](https://github.com/portfolioAustinT/Azure-SOC)
+    
+- <b>Strengthening Cyber Defenses with Microsoft Security Solutions</b>
+  - [Configuring and Updating Microsoft Defender]
+  - [Enabling and Configuring Microsoft Firewall]
 
+- <b>Smart Home Technology Integration Project</b>
+  - [Raspberry Pi Magic Mirror]
+
+- <b>Web Development Project</b>
+  - [Personal Portfolio Website]
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Austin Tham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
