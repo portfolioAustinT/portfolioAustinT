@@ -8,11 +8,14 @@
 - <b>Strengthening Cyber Defenses with Microsoft Security Solutions</b>
   - [Configuring and Updating Microsoft Defender]
   - [Enabling and Configuring Microsoft Firewall]
+ 
+- <b>Ethical Hacking Projects </b>
+  - [TBD]
 
-- <b>Smart Home Technology Integration Projects</b>
+- <b>Smart Home Technology Integration</b>
   - [Raspberry Pi Magic Mirror]
 
-- <b>Web Development Projects</b>
+- <b>Web Development</b>
   - [Personal Portfolio Website]
     
 <h2> 🤳 Connect with me:</h2>
