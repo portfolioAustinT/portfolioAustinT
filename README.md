@@ -10,7 +10,7 @@
   - [Enabling and Configuring Microsoft Firewall](https://github.com/portfolioAustinT/Enabling-and-Configuring-Microsoft-Firewall)
  
 - <b>Ethical Hacking Projects </b>
-  - [TBD]
+  - [In Progress...]
 
 - <b>Smart Home Technology Integration</b>
   - [Raspberry Pi Magic Mirror]
