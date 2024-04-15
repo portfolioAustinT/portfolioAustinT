@@ -6,7 +6,7 @@
   - [Creating a Live SOC / HoneyNet in Azure](https://github.com/portfolioAustinT/Azure-SOC)
     
 - <b>Strengthening Cyber Defenses with Microsoft Security Solutions</b>
-  - [Configuring and Updating Microsoft Defender]
+  - [Configuring and Updating Microsoft Defender](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender)
   - [Enabling and Configuring Microsoft Firewall]
  
 - <b>Ethical Hacking Projects </b>
