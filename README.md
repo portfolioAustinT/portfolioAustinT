@@ -13,7 +13,7 @@
   - [In Progress...]
 
 - <b>Smart Home Technology Integration</b>
-  - [Raspberry Pi Magic Mirror]
+  - [Raspberry Pi Magic Mirror](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
 
 - <b>Web Development</b>
   - [Personal Portfolio Website]
