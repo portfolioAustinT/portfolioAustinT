@@ -12,11 +12,15 @@
 - <b>Ethical Hacking Projects </b>
   - [In Progress]
 
-- <b>Smart Home Technology Integration</b>
-  - [Raspberry Pi Magic Mirror](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
+- <b>Networking Labs </b>
+  - [In Progress]
 
 - <b>Web Development</b>
   - [Personal Portfolio Website]
+
+- <b>Smart Home Technology Integration</b>
+  - [Raspberry Pi Magic Mirror](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
+
 
 <h2> 🏅 Certifications: </h2>
 
