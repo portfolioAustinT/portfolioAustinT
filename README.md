@@ -8,12 +8,6 @@
 - <b>Strengthening Cyber Defenses with Microsoft Security Solutions</b>
   - [Configuring and Updating Microsoft Defender](https://github.com/portfolioAustinT/Configuring-and-Updating-Microsoft-Defender)
   - [Enabling and Configuring Microsoft Firewall](https://github.com/portfolioAustinT/Enabling-and-Configuring-Microsoft-Firewall)
- 
-- <b>Ethical Hacking Projects </b>
-  - [In Progress]
-
-- <b>Networking Labs </b>
-  - [In Progress]
 
 - <b>Web Development</b>
   - [Personal Portfolio Website]
