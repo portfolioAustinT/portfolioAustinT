@@ -1,6 +1,6 @@
-<h1>Hi, I'm Austin! Driven Information Security Analyst </h1>
+<h1>Hi, I'm Austin! Passionate IT Professional </h1>
 
-<h2>👨‍💻 My Cybersecurity Portfolio:</h2>
+<h2>👨‍💻 My Portfolio:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / HoneyNet in Azure](https://github.com/portfolioAustinT/Azure-SOC)
