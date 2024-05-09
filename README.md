@@ -15,7 +15,7 @@
 - <b>Smart Home Technology Integration</b>
   - [Raspberry Pi Magic Mirror](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
 
-<b>Hardware Engineering</b>
+- <b>Hardware Engineering</b>
   - [Custom Built PC](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
 
 
