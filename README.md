@@ -14,7 +14,7 @@
 
 - <b>Hardware Engineering</b>
   - [Raspberry Pi Magic Mirror](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
-  - [Custom Built PC](https://github.com/portfolioAustinT/portfolioAustinT-Raspberry-Pi-Magic-Mirror)
+  - [Custom Built PC](https://github.com/portfolioAustinT/CustomBuiltPC)
 
 
 <h2> 🏅 Certifications: </h2>
