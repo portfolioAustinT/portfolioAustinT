@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! Passionate IT Professional </h1>
+<h1>Hi, I'm Austin! Passionate IT Specialist </h1>
 
 <h2>👨‍💻 My Portfolio:</h2>
 
