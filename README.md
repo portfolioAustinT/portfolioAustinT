@@ -19,6 +19,7 @@
 
 <h2> 🏅 Certifications: </h2>
 
+- <b>[CompTIA A+](https://www.credly.com/badges/e2753577-bc6d-4c01-9a20-f2afe60e7040/public_url)</b>
 - <b>[CompTIA Security+](https://www.credly.com/badges/b10fd543-27c5-4bfb-997c-43c4b0ef416b/linked_in_profile)</b>
 - <b>[Google Cybersecurity Professional Certification](https://www.credly.com/badges/c925af0f-9943-4fa4-aa21-879a46cf6d3d/linked_in?t=s0b0nv)</b>
     
